@@ -17,7 +17,7 @@ Swagger ui will be at [http://localhost:8080/swagger-ui/index.html](http://local
 
 ## Usage
 
-Change 
+Change [application.properties](/src/main/resources/application.properties)
 
  - spring.datasource.url=
  - spring.datasource.username=
